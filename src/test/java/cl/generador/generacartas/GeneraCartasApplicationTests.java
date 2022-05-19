@@ -1,0 +1,16 @@
+package cl.generador.generacartas;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+@SpringBootTest
+class GeneraCartasApplicationTests {
+
+	@Test
+	void contextLoads() {
+		assertTrue(true);
+	}
+
+}
